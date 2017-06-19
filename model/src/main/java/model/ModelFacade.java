@@ -35,7 +35,8 @@ public class ModelFacade implements IModel {
      */
     @Override
     public Example getExampleByName(final String name) throws SQLException {
-        return ExampleDAO.getExampleByName(name);
+    	return ExampleDAO.getExampleByName(name);
+    	
     }
 
     /*
