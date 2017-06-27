@@ -1,1 +1,3 @@
 This is a csv file based database for the levels.
+
+You should look up the port you're using with php myadmin.
